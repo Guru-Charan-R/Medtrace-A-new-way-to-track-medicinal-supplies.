@@ -1,0 +1,21 @@
+sku,product_name,category,quantity,price,warehouse_location
+MED-001,Paracetamol 500mg,Analgesic,500,0.50,Shelf-A1
+MED-002,Amoxicillin 250mg,Antibiotic,200,1.20,Shelf-A2
+MED-003,Insulin Glargine,Antidiabetic,80,45.00,Fridge-B1
+MED-004,Surgical Masks Box,PPE,150,12.00,Storage-C1
+MED-005,N95 Respirators,PPE,45,3.50,Storage-C2
+MED-006,IV Saline 500ml,Fluid,120,2.80,Shelf-B1
+MED-007,Bandage Roll 4in,Wound Care,300,1.50,Shelf-D1
+MED-008,Antiseptic Solution,Disinfectant,25,8.00,Shelf-E1
+MED-009,Digital Thermometer,Equipment,60,15.00,Drawer-F1
+MED-010,Blood Pressure Monitor,Equipment,35,35.00,Drawer-F2
+MED-011,Omeprazole 20mg,Gastrointestinal,180,0.80,Shelf-A3
+MED-012,Cetirizine 10mg,Antihistamine,250,0.40,Shelf-A4
+MED-013,Ibuprofen 400mg,Analgesic,400,0.60,Shelf-A5
+MED-014,Metformin 500mg,Antidiabetic,350,0.70,Shelf-A6
+MED-015,Adrenaline 1mg/ml,Emergency,15,25.00,Epi-Cart-1
+MED-016,Morphine 10mg/ml,Controlled,8,50.00,Safe-F1
+MED-017,Gloves Box of 100,PPE,200,10.00,Storage-C3
+MED-018,Syringes 5ml,Disposable,500,0.30,Shelf-D2
+MED-019,Gauze Pads,Wound Care,600,0.20,Shelf-D3
+MED-020,Hand Sanitizer 500ml,Hygiene,40,5.00,Shelf-E2

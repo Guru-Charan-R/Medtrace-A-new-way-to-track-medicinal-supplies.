@@ -1,0 +1,17 @@
+{
+  "name": "medtrace-hospital-stock-tracker",
+  "version": "1.0.0",
+  "description": "Hospital Stock Tracking System with AI Chatbot - MedTrace",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "bcryptjs": "^2.4.3",
+    "express-session": "^1.17.3",
+    "multer": "^2.0.1",
+    "csv-parser": "^3.0.0"
+  }
+}
